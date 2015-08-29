@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>Sprache.SuperJMN</id>
-        <version>2.0.0.46</version>
+        <version>2.0.0.47</version>
         <title>Sprache updated with to newest target platforms</title>
         <authors>Nicholas Blumhardt and Contributors</authors>
         <owners>Nicholas Blumhardt,Mike Hadlow</owners>
@@ -14,4 +14,8 @@
         <copyright>Copyright Sprache Contributors 2013</copyright>
         <tags>Parser Parsers Monad</tags>
     </metadata>
+    <files>
+        <file src="bin\Release-NET45\Sprache.dll" target="lib\portable-net4+netcore45+win8+wp8+sl5+MonoAndroid1+MonoTouch1\Sprache.dll" />
+        <file src="bin\Release\Sprache.dll" target="lib\portable-net451+win81+wpa81\Sprache.dll" />
+    </files>
 </package>
