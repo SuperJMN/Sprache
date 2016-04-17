@@ -15,7 +15,6 @@
         <tags>Parser Parsers Monad</tags>
     </metadata>
     <files>
-        <file src="bin\Release-NET45\Sprache.dll" target="lib\portable-net4+netcore45+win8+wp8+sl5+MonoAndroid1+MonoTouch1\Sprache.dll" />
-        <file src="bin\Release\Sprache.dll" target="lib\portable-net451+win81+wpa81\Sprache.dll" />
+        <file src="lib\netstandard1.5\_._" target="lib\netstandard1.5\_._" />
     </files>
 </package>
