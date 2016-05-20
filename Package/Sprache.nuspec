@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package>
   <metadata>
-    <id>Sprache</id>
+    <id>Sprache.SuperJMN</id>
     <!-- Version gets updated from Sprache.dll version number during the build's packaging process -->
     <version>1.10.0.0</version>
-    <title>Sprache</title>
+    <title>Sprache fork by SuperJMN</title>
     <authors>Nicholas Blumhardt and Contributors</authors>
     <owners>Nicholas Blumhardt, Mike Hadlow</owners>
     <licenseUrl>https://github.com/sprache/Sprache/blob/master/licence.txt</licenseUrl>
