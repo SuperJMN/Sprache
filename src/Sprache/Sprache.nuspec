@@ -15,6 +15,6 @@
         <tags>Parser Parsers Monad</tags>
     </metadata>
     <files>
-        <file src="lib\netstandard1.5\_._" target="lib\netstandard1.5\_._" />
+        <file src="bin\Release\netstandard1.6\sprache.dll" target="lib\netstandard1.6" />
     </files>
 </package>
