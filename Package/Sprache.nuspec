@@ -3,7 +3,7 @@
   <metadata>
     <id>Sprache.SuperJMN</id>
     <!-- Version gets updated from Sprache.dll version number during the build's packaging process -->
-    <version>1.10.0.0</version>
+    <version>2.0.0.52</version>
     <title>Sprache fork by SuperJMN</title>
     <authors>Nicholas Blumhardt and Contributors</authors>
     <owners>Nicholas Blumhardt, Mike Hadlow</owners>

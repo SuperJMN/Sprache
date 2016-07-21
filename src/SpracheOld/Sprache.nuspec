@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>Sprache.SuperJMN</id>
+        <version>2.0.0.51</version>
+        <title>Sprache updated with with support for .NET Standard 1.5</title>
+        <authors>Nicholas Blumhardt and Contributors</authors>
+        <owners>Nicholas Blumhardt,Mike Hadlow</owners>
+        <licenseUrl>https://github.com/sprache/Sprache/blob/master/licence.txt</licenseUrl>
+        <projectUrl>https://github.com/sprache/Sprache</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Sprache is a simple, lightweight library for constructing parsers directly in C# code.</description>
+        <releaseNotes />
+        <copyright>Copyright Sprache Contributors 2013</copyright>
+        <tags>Parser Parsers Monad</tags>
+    </metadata>
+    <files>
+        <file src="lib\netstandard1.5\_._" target="lib\netstandard1.5\_._" />
+    </files>
+</package>
